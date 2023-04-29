@@ -1,0 +1,18 @@
+.tab-list {
+  list-style-type: none;
+}
+.tabName {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Roboto';
+  margin-right: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.activeTab {
+  color: #fec653;
+}
+.tab-btn {
+  border-width: 0px;
+  background-color: transparent;
+}

@@ -1,0 +1,12 @@
+.thumbnail-container {
+  display: flex;
+}
+.thumbNail-img {
+  width: 200px;
+  height: 200px;
+  margin-right: 8px;
+}
+.thumb-btn {
+  border-width: 0px;
+  background-color: transparent;
+}
